@@ -1,4 +1,4 @@
-## 코딩애플 강의를 들으면서 배우는 클론 코딩
+## 강의를 들으면서 배우는 클론 코딩
 <details>
   <summary>참고 자료</summary>
 <div markdown="1">
